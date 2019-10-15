@@ -3,6 +3,7 @@ applications:
 - name: hackmd
   instances: 1
   memory: 6G
+  command: npm build && npm start
   buildpack: nodejs_buildpack
   env:
     PGSSLMODE: require
