@@ -119,7 +119,7 @@
     "mattermost-redux": "~5.13.0",
     "mermaid": "~8.2.3",
     "method-override": "~3.0.0",
-    "minimist": "~1.2.0",
+    "minimist": "~1.2.3",
     "minio": "~7.0.10",
     "minimatch": "~3.0.2",
     "mini-css-extract-plugin": "~0.8.0",
