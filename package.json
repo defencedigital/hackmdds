@@ -143,7 +143,7 @@
     "pg": "~6.1.2",
     "pg-hstore": "~2.3.2",
     "plantuml-encoder": "^1.2.5",
-    "prismjs": "~1.17.1",
+    "prismjs": "~1.23.0",
     "randomcolor": "~0.5.4",
     "raphael": "~2.2.8",
     "readline-sync": "~1.4.7",
