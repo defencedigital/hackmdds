@@ -148,7 +148,7 @@
     "raphael": "~2.2.8",
     "readline-sync": "~1.4.7",
     "request": "~2.88.0",
-    "reveal.js": "~3.7.0",
+    "reveal.js": "~3.9.2",
     "script-loader": "~0.7.2",
     "scrypt": "~6.0.3",
     "select2": "~3.5.2-browserify",
